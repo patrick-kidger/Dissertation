@@ -1,4 +1,5 @@
-Master's Dissertation
+# Master's Dissertation
 
-Title: Polynomial Approximation of Holomorphic Functions
-Supervisor: Prof. Hilary Priestley
+*Title*: Polynomial Approximation of Holomorphic Functions
+
+*Supervisor*: Prof. Hilary Priestley
